@@ -12,7 +12,7 @@ ip addr
 ```bash
 sudo arp-scan -l --interface=<name_of_interface>
 ```
-Replace ,name_of_interface> with the name of the interface which you would like to see the devices on.  For example, if your target interface is called "wlp2s0", then you would enter th following command:
+Replace ,name_of_interface> with the name of the interface which you would like to see the devices on.  For example, if your target interface is called "wlp2s0", then enter the following command:
 
 ```bash
 sudo arp-scan -l --interface=wlp2s0

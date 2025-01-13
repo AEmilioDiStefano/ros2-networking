@@ -1,6 +1,7 @@
 # SHOWING NETWORK INFORMATION IN A LINUX TERMINAL
 
 ### Lists all available network interfaces:
+(also shows other information like IP Address, subnet mask, etc)
 NOTE: WiFi interfaces are usually called "wlan0", "wlan1", "wlp2s0", or something similar beginning with "w".
 ```bash
 ip addr

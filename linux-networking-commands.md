@@ -1,7 +1,7 @@
 # SHOWING NETWORK INFORMATION IN A LINUX TERMINAL
 
 ### Lists all available network interfaces:
-OTE: WiFi interfaces are usually called "wlan0", "wlan1", "wlp2s0", or something similar beginning with "w".
+NOTE: WiFi interfaces are usually called "wlan0", "wlan1", "wlp2s0", or something similar beginning with "w".
 ```bash
 ip addr
 ```
